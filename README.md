@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CraXWaR
 - 👀 I’m interested in JavaScript
 - 🌱 I’m currently learning JavaScript at Software University
-- 💞️ I’m looking to collaborate on intern 
+- 💞️ I’m looking to collaborate as an intern 
 - 📫 How to reach me craxwar@gmail.com
 
 <!---
