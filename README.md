@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CraXWaR
-- 👀 I’m interested in JavaScript
+- 👀 I’m interested in JavaScript, FrontEnd in general
 - 🌱 I’m currently learning JavaScript at Software University
 - 💞️ I’m looking to collaborate as an intern / junior
 - 📫 How to reach me craxwar@gmail.com
