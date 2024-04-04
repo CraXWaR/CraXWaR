@@ -1,6 +1,6 @@
 # Hello, I'm Emanuil!
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emanuil-petrov-349968184/)](https://www.linkedin.com/in/emanuil-petrov-349968184/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/emanuil-petrov-crax)](https://www.linkedin.com/in/emanuil-petrov-crax/)
 
 Welcome to my GitHub profile! I'm a Junior Front-end Developer and I'm passionate about Programming, Sports, Computer Science. Here you'll find some of the projects I've been working on.
 
